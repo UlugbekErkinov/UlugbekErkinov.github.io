@@ -1,0 +1,42 @@
+body {
+	font-family: "Trebuchet MS", "Verdana", sans-serif;
+	color: white;
+	background-color: #346485;
+	text-align: center;
+	width:800px;
+}
+
+a {
+	color:#FF4F4F;
+}
+
+h1, h2 {
+	color:#9FC2F8;
+}
+
+h1 {
+	font-size: 40pt;
+}
+
+strong {
+	color:  #73E285;
+}
+
+.dropdown-item{
+color:orange;
+font-size: 25px;
+}
+ </style>
+q {
+	color:#D1DFEB ;
+}
+
+ul, ol, blockquote {
+	text-align:left;
+}
+
+ul {
+	color: solid;
+	font-style: italic;
+	list-style-type: square;
+}
